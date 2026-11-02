@@ -1,0 +1,12 @@
+node_modules/
+.git/
+.aistudio/
+.vercel/
+dist/
+coverage/
+README.md
+env.example
+metadata.json
+requirements.txt
+src/**/*.test.ts
+src/**/*.spec.ts
