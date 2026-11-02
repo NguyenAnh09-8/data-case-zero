@@ -1,0 +1,6 @@
+{
+  "name": "DATA CASE: ZERO",
+  "description": "Nền tảng học Khoa học Dữ liệu qua điều tra vụ án kinh doanh tương tác",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
